@@ -1,0 +1,9 @@
+com\aisatec\model\Fruit.class
+com\aisatec\communication\Producer.class
+com\aisatec\App.class
+com\aisatec\service\OfferService.class
+com\aisatec\controller\OfferController.class
+com\aisatec\service\impl\OfferServiceImpl.class
+com\aisatec\dao\OfferDAO.class
+com\aisatec\config\SwaggerConfig.class
+com\aisatec\model\Offer.class
